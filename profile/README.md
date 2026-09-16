@@ -16,8 +16,8 @@ notes, on every device. End-to-end encrypted, and usable offline.
 - Works offline. No account needed to start.
 
 **[Download](https://github.com/NotRover/RoverTools-Releases)** -
-**[Website](https://rovertools.app)** -
-**[Docs](https://rovertools.app/docs/)**
+**[Website](https://orange-copy-paste-app.pages.dev)** -
+**[Docs](https://orange-copy-paste-app.pages.dev/docs/)**
 
 Windows (installer) and Linux (deb and AppImage).
 
